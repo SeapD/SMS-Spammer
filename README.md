@@ -2,7 +2,7 @@
 Region of phone numbers: RU, KZ, UA
 
 # Installation:
-1. sudo apt-get update
+1. sudo apt-get update (if you have a problems just write without sudo)
 2. sudo apt install python3 python-pip
 3. sudo apt install git 
 4. git clone https://github.com/SeapD/SMS-Spammer
