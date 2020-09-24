@@ -17,4 +17,4 @@ python spammer.py
 python spammerLite.py
 
 # Uninstall
-rm -rfSMS-Spammer
+rm -rf SMS-Spammer
