@@ -6,12 +6,12 @@ python spammer.py
 
 # Installation:
 1. sudo apt-get update
-2. sudo apt install python2.7 python-pip
+2. sudo apt install python3 python-pip
 3. sudo apt install git 
 4. git clone https://github.com/SeapD/SMS-Spammer
 5. cd Spammer 
-6. pip2 install requests
-7. pip2 install argparse
+6. pip install requests
+7. pip install argparse
 
 # Example of command is: 
-python2 spammer.py
+python3 spammer.py
