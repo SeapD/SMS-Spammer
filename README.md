@@ -5,13 +5,13 @@ Region of phone numbers: RU, KZ, UA
 python spammer.py
 
 # Installation:
-sudo apt-get update
-sudo apt install python2.7 python-pip
-sudo apt install git 
-git clone https://github.com/SeapD/SMS-Spammer
-cd Spammer 
-pip2 install requests
-pip2 install argparse
+1. sudo apt-get update
+2. sudo apt install python2.7 python-pip
+3. sudo apt install git 
+4. git clone https://github.com/SeapD/SMS-Spammer
+5. cd Spammer 
+6. pip2 install requests
+7. pip2 install argparse
 
 # Example of command is: 
-python2 spammer.py
+8. python2 spammer.py
