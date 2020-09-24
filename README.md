@@ -14,7 +14,7 @@ Region of phone numbers: RU, KZ, UA
 python spammer.py
 
 # Example of command is (for phones): 
-python3 spammer.py
+python spammerLite.py
 
 # Uninstall
 rm -rfSMS-Spammer
