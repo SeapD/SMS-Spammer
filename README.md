@@ -2,7 +2,7 @@
 Region of phone numbers: RU, KZ, UA
 
 # How to use?
-'python spammer.py'
+python spammer.py
 
 # Installation:
 sudo apt-get update
