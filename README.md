@@ -1,10 +1,10 @@
 # SMS-Spammer
 Region of phone numbers: RU, KZ, UA
 
-How to use?
+# How to use?
 'python spammer.py'
 
-Installation:
+# Installation:
 sudo apt-get update
 sudo apt install python2.7 python-pip
 sudo apt install git 
@@ -13,4 +13,5 @@ cd Spammer
 pip2 install requests
 pip2 install argparse
 
-Example of command is : python2 spammer.py
+# Example of command is: 
+python2 spammer.py
