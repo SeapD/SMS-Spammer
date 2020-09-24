@@ -14,4 +14,4 @@ python spammer.py
 7. pip2 install argparse
 
 # Example of command is: 
-8. python2 spammer.py
+python2 spammer.py
